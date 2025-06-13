@@ -25,7 +25,7 @@ Um dashboard interativo de vendas desenvolvido com Streamlit, que permite visual
 
 1. Clone o repositório:
 ```bash
-git clone [URL_DO_REPOSITÓRIO]
+git clone https://github.com/henriquelcoelho/dashboard-vendas.git
 ```
 
 2. Instale as dependências:
@@ -65,4 +65,4 @@ streamlit run app.py
 
 ## Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes. 
+Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
